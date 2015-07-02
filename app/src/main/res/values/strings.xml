@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SaveMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="record_nome">nome</string>
+    <string name="record_pass">pass</string>
+    <string name="record_indirizzo">ind</string>
+    <string name="record_conn">conn</string>
+    <string name="record_dist">dist</string>
+
+</resources>
